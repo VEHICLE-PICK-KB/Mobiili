@@ -1,2 +1,2 @@
 # Mobiiliohjelmointi
-Excersises with React Native.
+Excercises with React Native.
